@@ -1,0 +1,21 @@
+month,category,revenue,previous_revenue,mom_pct,flag_status
+
+April,Beauty & Personal Care,40737.01,N/A,N/A,N/A
+May,Beauty & Personal Care,35542.11,40737.01,-12.75,flagged
+June,Beauty & Personal Care,37559.07,35542.11,5.67,not_flagged
+
+April,Ethnic Wear,104520.77,N/A,N/A,N/A
+May,Ethnic Wear,185107.61,104520.77,77.1,flagged
+June,Ethnic Wear,76371.53,185107.61,-58.74,flagged
+
+April,Home & Kitchen,100446.23,N/A,N/A,N/A
+May,Home & Kitchen,91152.57,100446.23,-9.25,flagged
+June,Home & Kitchen,129971.22,91152.57,42.59,flagged
+
+April,Kids Wear,59847.27,N/A,N/A,N/A
+May,Kids Wear,45793.78,59847.27,-23.48,flagged
+June,Kids Wear,56737.78,45793.78,23.9,flagged
+
+April,Western Wear,113866.15,N/A,N/A,N/A
+May,Western Wear,86998.18,113866.15,-23.6,flagged
+June,Western Wear,97415.64,86998.18,11.97,flagged

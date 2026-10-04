@@ -1,0 +1,6 @@
+order_id,reseller_id,category,product_name,quantity,unit_price,order_date,month,status
+ORD00001,RS003,Western Wear,Western Wear Item 748,1,690.03,2026-04-09,April,Returned
+ORD00002,RS015,Kids Wear,Kids Wear Item 644,1,881.53,2026-04-18,April,Delivered
+ORD00003,RS020,Beauty & Personal Care,Beauty & Personal Care Item 234,1,384.06,2026-04-03,April,Delivered
+ORD00004,RS010,Beauty & Personal Care,Beauty & Personal Care Item 651,3,704.96,2026-04-13,April,Delivered
+ORD00005,RS012,Ethnic Wear,Ethnic Wear Item 664,2,789.8,2026-04-23,April,Cancelled

@@ -1,0 +1,15 @@
+Nee code panrathuku VS Code (Visual Studio Code) use panra aalaa iruntha, ithu thaan best vazhi.
+
+Un MEESHO folder-a VS Code-la open pannu.
+
+Left side menu-la 3rd icon (Source Control - oru tree branch madhiri irukkum) click pannu.
+
+Athula "Initialize Repository" nu oru blue button irukkum, atha click pannu.
+
+Mela oru text box varum, athula Initial commit nu type pannitu, pakathula irukka Tick (✓) mark-a click pannu (illa Commit button-a press pannu).
+
+Ippo antha blue button "Publish Branch" nu maaridum. Atha click pannu.
+
+Mela un GitHub account-a authorize panna sollum, allow pannidu. Un repository name kaatum, atha select panna direct-a VS code laye upload aagidum!
+
+Ithula first method romba simple, try pannitu varutha nu sollu!
